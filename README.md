@@ -1,4 +1,5 @@
-
+![Alt text](relative/path/to/your-image.png)
+![Alt text](relative/path/to/your-image.png)
 # User Management System Using Express, MongoDB & EJS
 
 A simple and efficient User Management System that demonstrates CRUD operations (Create, Read, Update, Delete) built with Node.js, Express, MongoDB, and EJS. This project demonstrates the implementation of basic CRUD operations for user data, organized in a Model-View-Controller (MVC) architecture. It includes features like environment variable configuration, code organization, and client-side components for enhanced functionality.
